@@ -35,11 +35,7 @@ const currentYear = new Date().getFullYear();
               <div class="mb-4">
                 <span class="status-badge px-3 py-2 px-md-4 fw-semibold">Sitio Web en Construcción</span>
               </div>
-
-              <p class="branding-keywords text-white mb-4 mb-md-5 fw-normal">
-                Viajes grupales | Eventos | Experiencias | Asesorías
-              </p>
-
+              
             </div>
           </div>
         </div>
